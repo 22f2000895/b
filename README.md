@@ -3,6 +3,7 @@ This repository contains Sankey diagram for generated business data.
 email: 22f2000895@ds.study.iitm.ac.in
 
 Data used for generating the diagram is:
+
 source,target,flow
 Wind,Manufacturing,420
 Coal,Equipment,950
